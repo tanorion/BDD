@@ -2,3 +2,8 @@ C:\Development\BDD\BDD\BowlingGame\bin\Debug\BowlingGame.dll
 C:\Development\BDD\BDD\BowlingGame\bin\Debug\BowlingGame.pdb
 C:\Development\BDD\BDD\BowlingGame\obj\Debug\BowlingGame.dll
 C:\Development\BDD\BDD\BowlingGame\obj\Debug\BowlingGame.pdb
+C:\Development\BDD\BowlingGame\bin\Debug\BowlingGame.dll
+C:\Development\BDD\BowlingGame\bin\Debug\BowlingGame.pdb
+C:\Development\BDD\BowlingGame\obj\Debug\BowlingGame.csprojResolveAssemblyReference.cache
+C:\Development\BDD\BowlingGame\obj\Debug\BowlingGame.dll
+C:\Development\BDD\BowlingGame\obj\Debug\BowlingGame.pdb
