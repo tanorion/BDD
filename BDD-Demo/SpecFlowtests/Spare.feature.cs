@@ -11,7 +11,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace BDD.SpecFlowtests
+namespace BDD_Demo.SpecFlowtests
 {
     using TechTalk.SpecFlow;
     

@@ -30,6 +30,22 @@ namespace BDD.nSpectests
                             };
                         };                    
                     };
+
+            context["And i roll a strike"] = () =>
+                    {
+                        act = () => game.Roll(10);
+                        it["My score so far should be 10"] = () => game.Score().Should().Be(10);
+
+                        context["If i then roll two 5"] = () =>
+                                                          {
+                                                              act = () =>
+                                                                    {
+                                                                        game.Roll(5);
+                                                                        game.Roll(5);
+                                                                    };
+                                                              it["My score should now be 30"] = () => game.Score().Should().Be(30);
+                                                          };
+                    };
         }
     }
 }
